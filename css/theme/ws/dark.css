@@ -1,0 +1,15 @@
+header {
+    background-color: rgb(53, 61, 68);
+}
+
+html {
+    background-color: rgb(40, 45, 50);
+}
+
+#top_menu > * {
+    color: rgb(140, 146, 150);
+}
+
+#top_menu > div > .menu_sub {
+    background-color: rgb(32, 36, 39);
+}

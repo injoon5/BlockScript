@@ -1,0 +1,13 @@
+@font-face {
+    font-family: NanumBarunGothicLight;
+    src: url(/font/NanumBarunGothicLight.ttf)
+}
+
+@font-face {
+    font-family: FiraCodeLight;
+    src: url(/font/FiraCodeLight.ttf)
+}
+
+* {
+    font-family: FiraCodeLight, NanumBarunGothicLight;
+}

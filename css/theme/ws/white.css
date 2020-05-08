@@ -1,0 +1,15 @@
+header {
+    background-color: rgb(208, 213, 218);
+}
+
+html {
+    background-color: rgb(226, 232, 236);
+}
+
+#top_menu > * {
+    color: rgb(55, 58, 59);
+}
+
+#top_menu > div > .menu_sub {
+    background-color: rgb(187, 193, 197);
+}

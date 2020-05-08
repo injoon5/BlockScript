@@ -1,0 +1,16 @@
+#menu > button {
+    background-color: rgb(65, 80, 95);
+    color: rgb(220, 220, 220);
+}
+
+body {
+    background-color: rgb(40, 45, 50);
+}
+
+h1 {
+    color: rgb(100, 110, 120);
+}
+
+hr {
+    border: 1px solid rgb(100, 110, 120);
+}
